@@ -19,5 +19,6 @@ int main(int argc, char *argv[])
 	else {
 		printf("cost, quantity and discount > 0");
 	}
+	printf(" Panhhh ");
 	return 0;
 }
